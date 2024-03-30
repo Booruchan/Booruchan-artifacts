@@ -1,0 +1,16 @@
+{
+    "packages": [
+        {
+            "applicationId": "org.booruchan.extensions.safebooru",
+            "versionCode": 7,
+            "versionName": "1.3",
+            "apkFilename": "safebooru-signed.apk"
+        },
+        {
+            "applicationId": "org.booruchan.extensions.lolibooru",
+            "versionCode": 7,
+            "versionName": "1.3",
+            "apkFilename": "lolibooru-signed.apk"
+        }
+    ]
+}
